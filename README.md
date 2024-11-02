@@ -1,5 +1,5 @@
 # Diverse Sports Activity Recognition Using Custom Convolutional Neural Networks (CNNs) for Complex Athletic Movements
-
+Dataset link:https://www.crcv.ucf.edu/data/UCF_Sports_Action.php
 Objective and Target Audience
 
   The Diverse-Sport Action Recognition model will primarily benefit professionals in the sports, fitness, and
